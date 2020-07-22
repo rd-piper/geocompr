@@ -4,7 +4,7 @@
 
 ## Prerequisites {-}
 
-This is the first practical chapter of the book, and therefore it comes with some software requirements.
+This is the first practical cchapter of the book, and therefore it comes with some software requirements.
 We assume that you have an up-to-date version of R installed and that you are comfortable using software with a command-line interface such as the integrated development environment (IDE) RStudio.
 
 If you are new to R, we recommend reading Chapter 2 of the online book *Efficient R Programming* by @gillespie_efficient_2016 and
